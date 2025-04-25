@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Slomosa im just a guy learning stuff. 
-- 👀 I’m interested in improving my skill sets. 
+- 👀 I’m interested in improving my skill. 
 - 🌱 I’m currently interested in learning python.
 - ⚡ Fun fact: i like watermelon yum yum
 - future plans: Programming G 
